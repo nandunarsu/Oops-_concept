@@ -1,0 +1,15 @@
+C:\Users\NANDINI\source\repos\OopsConcept\OopsConcept\bin\Debug\net8.0\OopsConcept.exe
+C:\Users\NANDINI\source\repos\OopsConcept\OopsConcept\bin\Debug\net8.0\OopsConcept.deps.json
+C:\Users\NANDINI\source\repos\OopsConcept\OopsConcept\bin\Debug\net8.0\OopsConcept.runtimeconfig.json
+C:\Users\NANDINI\source\repos\OopsConcept\OopsConcept\bin\Debug\net8.0\OopsConcept.dll
+C:\Users\NANDINI\source\repos\OopsConcept\OopsConcept\bin\Debug\net8.0\OopsConcept.pdb
+C:\Users\NANDINI\source\repos\OopsConcept\OopsConcept\obj\Debug\net8.0\OopsConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NANDINI\source\repos\OopsConcept\OopsConcept\obj\Debug\net8.0\OopsConcept.AssemblyInfoInputs.cache
+C:\Users\NANDINI\source\repos\OopsConcept\OopsConcept\obj\Debug\net8.0\OopsConcept.AssemblyInfo.cs
+C:\Users\NANDINI\source\repos\OopsConcept\OopsConcept\obj\Debug\net8.0\OopsConcept.csproj.CoreCompileInputs.cache
+C:\Users\NANDINI\source\repos\OopsConcept\OopsConcept\obj\Debug\net8.0\OopsConcept.sourcelink.json
+C:\Users\NANDINI\source\repos\OopsConcept\OopsConcept\obj\Debug\net8.0\OopsConcept.dll
+C:\Users\NANDINI\source\repos\OopsConcept\OopsConcept\obj\Debug\net8.0\refint\OopsConcept.dll
+C:\Users\NANDINI\source\repos\OopsConcept\OopsConcept\obj\Debug\net8.0\OopsConcept.pdb
+C:\Users\NANDINI\source\repos\OopsConcept\OopsConcept\obj\Debug\net8.0\OopsConcept.genruntimeconfig.cache
+C:\Users\NANDINI\source\repos\OopsConcept\OopsConcept\obj\Debug\net8.0\ref\OopsConcept.dll
