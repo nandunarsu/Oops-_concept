@@ -1,0 +1,15 @@
+C:\Users\NANDINI\source\repos\EmployeWageComputation\EmployeWageComputation\bin\Debug\net8.0\EmployeWageComputation.exe
+C:\Users\NANDINI\source\repos\EmployeWageComputation\EmployeWageComputation\bin\Debug\net8.0\EmployeWageComputation.deps.json
+C:\Users\NANDINI\source\repos\EmployeWageComputation\EmployeWageComputation\bin\Debug\net8.0\EmployeWageComputation.runtimeconfig.json
+C:\Users\NANDINI\source\repos\EmployeWageComputation\EmployeWageComputation\bin\Debug\net8.0\EmployeWageComputation.dll
+C:\Users\NANDINI\source\repos\EmployeWageComputation\EmployeWageComputation\bin\Debug\net8.0\EmployeWageComputation.pdb
+C:\Users\NANDINI\source\repos\EmployeWageComputation\EmployeWageComputation\obj\Debug\net8.0\EmployeWageComputation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NANDINI\source\repos\EmployeWageComputation\EmployeWageComputation\obj\Debug\net8.0\EmployeWageComputation.AssemblyInfoInputs.cache
+C:\Users\NANDINI\source\repos\EmployeWageComputation\EmployeWageComputation\obj\Debug\net8.0\EmployeWageComputation.AssemblyInfo.cs
+C:\Users\NANDINI\source\repos\EmployeWageComputation\EmployeWageComputation\obj\Debug\net8.0\EmployeWageComputation.csproj.CoreCompileInputs.cache
+C:\Users\NANDINI\source\repos\EmployeWageComputation\EmployeWageComputation\obj\Debug\net8.0\EmployeWageComputation.sourcelink.json
+C:\Users\NANDINI\source\repos\EmployeWageComputation\EmployeWageComputation\obj\Debug\net8.0\EmployeWageComputation.dll
+C:\Users\NANDINI\source\repos\EmployeWageComputation\EmployeWageComputation\obj\Debug\net8.0\refint\EmployeWageComputation.dll
+C:\Users\NANDINI\source\repos\EmployeWageComputation\EmployeWageComputation\obj\Debug\net8.0\EmployeWageComputation.pdb
+C:\Users\NANDINI\source\repos\EmployeWageComputation\EmployeWageComputation\obj\Debug\net8.0\EmployeWageComputation.genruntimeconfig.cache
+C:\Users\NANDINI\source\repos\EmployeWageComputation\EmployeWageComputation\obj\Debug\net8.0\ref\EmployeWageComputation.dll
